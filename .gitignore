@@ -1,0 +1,7 @@
+.hyde_deps
+deploy/*
+.Python
+content/*
+.DS_Store
+activate/*
+media/*
