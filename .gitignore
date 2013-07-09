@@ -5,3 +5,4 @@ content/*
 .DS_Store
 activate/*
 media/*
+.git/*
